@@ -17,6 +17,8 @@ Total Funded Amount: Understanding the total amount of funds disbursed as loans 
 Average Interest Rate: Calculating the average interest rate across all loans, MTD, and monitoring the Month-over-Month (MoM) variations in interest rates will provide insights into our lending portfolio's overall cost.
 - Average Debt-to-Income Ratio (DTI): Evaluating the average DTI for our borrowers helps us gauge their financial health. We need to compute the average DTI for all loans, MTD, and track Month-over-Month (MoM) fluctuations.
 
+![WhatsApp Image 2024-07-21 at 6 41 46 PM](https://github.com/user-attachments/assets/c6c561ab-4c9b-4061-ac7a-cb5e01447f09)
+
 ### Dashboard 2: Overview
 
 #### CHARTS
